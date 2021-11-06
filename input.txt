@@ -1,0 +1,9 @@
+5
+BurstTime
+10 1 2 1 5   
+Priority
+3 1 3 4 2   
+ArrivalTime
+0 0 0 0 0 
+
+
